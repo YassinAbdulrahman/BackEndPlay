@@ -1,0 +1,14 @@
+.workoutsdetails{
+    width: 400px ;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.workoutsdetails span{
+    color: red;
+    cursor: pointer;
+}
